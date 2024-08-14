@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container bg-light rounded-3 mb-4 py-3">
-        <form action="opt.php" method="POST">
+        <form action="post.php" method="POST">
         <h1>ข้อมูล</h1>
         <div class="mb-2">
             <label class="form-label">ชื่อ</label>
